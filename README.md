@@ -37,9 +37,9 @@ F5Assignment/
 
 ## ⚙️ How to Run
 
-### Compile: javac -d . AttendanceMain.java in/ac/mitmeerut/**/*.java
+### Compile: javac -d . AttendanceMain.java in/ac/mitmeerut/**/*.java  
 ### Short cut compile use: javac -d . $(find . -name "*.java")
-
+### There whole command for mac users only
 
 ### Run: java AttendanceMain
 
